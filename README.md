@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://github.com/Goldoni17/projetos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/guilherme-goldoni-942724238" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
