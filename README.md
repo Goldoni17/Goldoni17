@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/guilherme-goldoni-942724238 target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
 </div>
 
 ###
@@ -10,7 +12,7 @@
 
 ###
 
-<h1 align="center">Bem-vindo ao Meu Perfil do GitHub!</h1>
+<h1 align="center">Welcome to My GitHub Profile!</h1>
 
 ###
 
@@ -18,7 +20,8 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou Guilherme.<br><br>Sou um aspirante a profissional de dados, iniciando minha jornada no mundo da análise de dados e ciência de dados. Tenho paixão por descobrir insights a partir de dados e construir soluções que geram impacto significativo. Adoro aprender novas ferramentas e trabalhar em projetos que aprimorem minhas habilidades.</p>
+<p align="left">Hi! 👋I'm Guilherme.
+I'm an aspiring data professional, starting my journey in the world of data analysis and data science. I'm passionate about discovering insights from data and building solutions that generate meaningful impact. I love learning new tools and working on projects that enhance my skills.</p>
 
 ###
 
