@@ -3,10 +3,9 @@
 <div align="center">
   <a href="https://github.com/Goldoni17/projetos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
+  </a>
 </div>
 
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
